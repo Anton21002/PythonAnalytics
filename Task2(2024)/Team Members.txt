@@ -1,0 +1,1 @@
+Team Members : Anton Satalin (task2.ipynb) , Edvin Jansson (assignment2_edvin_jansson.ipynb)
